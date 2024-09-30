@@ -2,6 +2,7 @@ package com.pieash9.SpringBoot.start.repository;
 
 import com.pieash9.SpringBoot.start.entity.Department;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
